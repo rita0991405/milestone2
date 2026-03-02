@@ -100,6 +100,8 @@ See full report in `report/Report.pdf`
 - Python 3.12
 - scikit-learn 1.3.0
 - SpaCy 3.7
+- SentenceTransformers (SBERT – all-MiniLM-L6-v2)
+- LatentDirichletAllocation (LDA)
 - VADER Sentiment
 - TextBlob
 - pandas, numpy, matplotlib, seaborn
