@@ -11,9 +11,8 @@ Machine learning pipeline to detect AI-generated text across social media platfo
 
 ## Repository Structure
 - `report/` - Final project report (PDF)
-- `data/` - Sample datasets and data source links
+- `data/` - Sample datasets
 - `scr/` - All Python code for data cleaning, modeling, and analysis
-- `results/` - Generated figures, model outputs, and evaluation metrics
 - `requirements.txt` - Python package dependencies
 
 ## Data Sources
